@@ -1,0 +1,10 @@
+{
+  "title": "GetCandy Hub Docs",
+  "url": "",
+  "logo": {
+    "light": "/getcandy_RGB.svg",
+    "dark": "/getcandy-white_RGB.svg"
+  },
+  "github": "getcandy/hub",
+  "twitter": "getcandy"
+}
